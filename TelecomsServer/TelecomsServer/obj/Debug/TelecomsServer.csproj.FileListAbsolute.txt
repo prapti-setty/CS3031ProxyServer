@@ -1,0 +1,10 @@
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.csprojAssemblyReference.cache
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.Form1.resources
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.Properties.Resources.resources
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.csproj.GenerateResource.cache
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.csproj.CoreCompileInputs.cache
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\bin\Debug\TelecomsServer.exe.config
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\bin\Debug\TelecomsServer.exe
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\bin\Debug\TelecomsServer.pdb
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.exe
+C:\Users\prapt\source\repos\TelecomsServer\TelecomsServer\obj\Debug\TelecomsServer.pdb
